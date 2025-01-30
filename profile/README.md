@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, We're Raito Technology Studio</h1>
-<h3 align="center">A passionate IT team from Indonesia</h3>
+<h1 align="center">Hi 👋, We're PT Marvelous Celebes Techno</h1>
+<h3 align="center">A passionate IT Solutions team from Indonesia</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 </p>
 
